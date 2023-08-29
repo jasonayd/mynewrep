@@ -21,6 +21,7 @@ def random_string():
 b= random_string()
 
 print(b)
+print(a)
 
 
 
